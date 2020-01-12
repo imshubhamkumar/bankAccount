@@ -1,0 +1,22 @@
+.mat-drawer-content{
+    background-color: #060a31;
+}
+.mainCard{
+    margin: 2rem;
+    padding: 2rem;
+}
+.subCard{
+    margin: 1rem;
+    padding: 0.5rem;
+    width: 100%;
+}
+
+input[type=text] {
+    width: 10rem;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+
+  input[type=text]:focus {
+    width: 80%;
+  }
